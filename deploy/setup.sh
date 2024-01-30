@@ -3,7 +3,7 @@
 set -e
 
 # TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://github.com/CHANGEME'
+PROJECT_GIT_URL='https://github.com/Death12555/Django_Rest_Framework_APIs.git'
 
 PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
 
